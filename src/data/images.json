@@ -1,0 +1,24 @@
+[
+  {
+    "location": "/carouselpainting1.jpg",
+    "alt": "image alt text",
+    "color": "white",
+    "title": "Carousel Painting 1",
+    "description": "Description for carousel painting 1."
+  },
+  {
+    "location": "/carouselpainting2.jpg",
+    "alt": "image alt text",
+    "color": "white",
+    "title": "Carousel Painting 2",
+    "description": "Description for carousel painting 2."
+  },
+  {
+    "location": "/carouselpainting3.jpg",
+    "alt": "image alt text",
+    "color": "white",
+    "title": "Carousel Painting 3",
+    "description": "Description for carousel painting 3."
+  }
+]
+
